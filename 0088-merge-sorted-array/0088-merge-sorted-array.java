@@ -20,7 +20,6 @@ class Solution {
             else {
                 nums1[currentIndex] = nums2[start2++];
             }
-            System.out.println(start1+" "+start2+" "+currentIndex);
         }
     }
 }
