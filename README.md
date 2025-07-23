@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/HrithikSampson/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HrithikSampson/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/HrithikSampson/dsa-practice/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/HrithikSampson/dsa-practice/tree/master/0907-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/HrithikSampson/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HrithikSampson/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/HrithikSampson/dsa-practice/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/HrithikSampson/dsa-practice/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
