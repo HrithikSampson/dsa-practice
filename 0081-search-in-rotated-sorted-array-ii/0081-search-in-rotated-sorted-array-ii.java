@@ -3,7 +3,7 @@ class Solution {
     public boolean search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
-        if(nums[right]==target) return true;
+        // if(nums[right]==target) return true;
         while(left<=right){
             int mid = left + (right - left)/2;
             // System.out.println(mid);
