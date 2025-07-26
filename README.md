@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/HrithikSampson/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/HrithikSampson/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HrithikSampson/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0788-minimize-max-distance-to-gas-station](https://github.com/HrithikSampson/dsa-practice/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/HrithikSampson/dsa-practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HrithikSampson/dsa-practice/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HrithikSampson/dsa-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/HrithikSampson/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/HrithikSampson/dsa-practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HrithikSampson/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0788-minimize-max-distance-to-gas-station](https://github.com/HrithikSampson/dsa-practice/tree/master/0788-minimize-max-distance-to-gas-station) |
 | [0792-binary-search](https://github.com/HrithikSampson/dsa-practice/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/HrithikSampson/dsa-practice/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HrithikSampson/dsa-practice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
